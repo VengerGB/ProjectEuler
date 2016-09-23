@@ -1,0 +1,12 @@
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\ProjectEuler1.exe.config
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\obj\x86\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\Data\keylog.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\Data\names.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\Data\poker.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\Data\roman.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\Data\triangle.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\Data\words.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\ProjectEuler1.exe
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\bin\Debug\ProjectEuler1.pdb
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\obj\x86\Debug\ProjectEuler1.exe
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Core\obj\x86\Debug\ProjectEuler1.pdb

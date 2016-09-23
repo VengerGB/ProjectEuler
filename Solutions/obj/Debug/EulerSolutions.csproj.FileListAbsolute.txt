@@ -1,0 +1,15 @@
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\obj\Debug\EulerSolutions.csprojResolveAssemblyReference.cache
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\Data\keylog.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\Data\names.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\Data\poker.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\Data\roman.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\Data\triangle.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\Data\words.txt
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\EulerSolutions.dll
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\EulerSolutions.pdb
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\ProjectEuler1.exe
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\ProjectEuler1.pdb
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\obj\Debug\EulerSolutions.dll
+C:\Users\eguypri\Dropbox\Source Code\Git\ProjectEuler\Solutions\obj\Debug\EulerSolutions.pdb
