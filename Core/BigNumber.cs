@@ -30,11 +30,10 @@
 
         public BigNumber(string startingValue)
         {
-            // Performance improvement
-            //if (!startingValue.All(c => char.IsDigit(c)))
-            //{
-            //    throw new InvalidOperationException("'value' is not a numeric string.");
-            //}
+            if (!startingValue.All(c => char.IsDigit(c)))
+            {
+                throw new InvalidOperationException("'value' is not a numeric string.");
+            }
 
             bigNumberValue = startingValue;
         }

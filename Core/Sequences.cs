@@ -8,6 +8,7 @@
     {
         private static List<int> cachedPrimes = new List<int>() { 2 };
 
+
         public static IEnumerable<long> Fibbonaci()
         {
             long firstValue = 1;
@@ -26,6 +27,16 @@
 
                 yield return returnValue;
             }
+        }
+
+        public static long SumOfSeries(long val, long max)
+        {
+            long numberOfTerms = (max - 1) / val;
+            long lastTermValue = numberOfTerms * val;
+
+            float averageTerm = (val + lastTermValue) / 2.0f;
+
+            return (long)(averageTerm * numberOfTerms);
         }
 
         public static IEnumerable<BigNumber> BigFibbonaci()
